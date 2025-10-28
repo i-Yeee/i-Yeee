@@ -2,7 +2,6 @@
 
 I'm a passionate **tech enthusiast** and **creative coder** specializing in building innovative projects across various domains. I thrive on turning ideas into reality, whether it's crafting immersive 3D worlds in **Blender**, developing intuitive mobile apps, or exploring AI with **Machine Learning**. When I'm not coding, you'll find me scoring goals in **eFootball** or battling it out in **COD Mobile**! ⚽🎮
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iYeee&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iYeee&layout=compact&theme=radical)
 
 ---
